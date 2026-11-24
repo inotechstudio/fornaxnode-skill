@@ -44,7 +44,7 @@ Copy the `fornaxnode-esp32` folder into your skills folder:
 - for one project only: `.claude/skills/fornaxnode-esp32/` inside that project.
 
 ```bash
-git clone https://github.com/<owner>/fornaxnode-skill.git
+git clone https://github.com/inotechstudio/fornaxnode-skill.git
 cp -r fornaxnode-skill/fornaxnode-esp32 ~/.claude/skills/
 ```
 
